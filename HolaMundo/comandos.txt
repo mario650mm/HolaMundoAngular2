@@ -1,0 +1,2 @@
+Instalación de dependencias de node_modules y typings 
+npm install && npm run typings install
